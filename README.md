@@ -46,7 +46,10 @@ This project applies **topic modeling**, **sentiment analysis**, and **TF-IDF te
 
 ## 🔍 LDA Tuning Results
 
-![LDA Tuning Plot](pics/ldatuning.png)
+<div align="center">
+  <img src="pics/ldatuning.png" alt="LDA Tuning Plot" width="70%">
+</div>
+
 
 **Discussion**:  
 Multiple topic coherence metrics were used to determine the optimal number of topics. The Deveaud2014 and Griffiths2004 scores indicated that **k = 6** provides better topic separation and interpretability compared to lower k values.
